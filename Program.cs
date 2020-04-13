@@ -17,10 +17,10 @@ namespace ResponsiPemrograman2656
             karyawan.GetDataKaryawan2();
 
 
-            Karyawan GetDataDiskon = new Karyawan(191122, "Paijo", 0);
+            Karyawan GetDataDiskon = new Karyawan(19112656, "Paijo", 0);
             karyawan.GetDataDiskon();
 
-            Karyawan GetDataDiskon2 = new Karyawan(191213, "Jono", 0);
+            Karyawan GetDataDiskon2 = new Karyawan(19112658, "Jono", 0);
             karyawan.GetDataDiskon2();
 
             Console.ReadKey();
